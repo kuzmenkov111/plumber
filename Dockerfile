@@ -1,4 +1,5 @@
 FROM rocker/r-base
+
 MAINTAINER Jeff Allen <docker@trestletech.com>
 
 RUN useradd plumber \
